@@ -19,6 +19,6 @@ Later iterations (determined by public interest in the code or if I feel like it
 
 
 
---- Assembly Instructions ---
+*** Assembly Instructions ***
 The DS3234 RTC is plugged directly into the Arduino board and powered by holding the power pin HIGH and the ground pin LOW.
 This is okay for the power usage of this device.
